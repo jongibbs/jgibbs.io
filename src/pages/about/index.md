@@ -1,19 +1,23 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Shade-grown insects
+
+Bacon ipsum dolor amet beef ribs alcatra pork loin pork chop filet mignon turducken. Chicken ground round spare ribs, pork belly tail drumstick andouille shoulder bacon capicola rump short ribs bresaola turkey cow. Doner pork loin boudin frankfurter kielbasa pork belly. Shank bresaola bacon short ribs pork belly ham cow ribeye pork chop kielbasa. Kielbasa pork chop beef chicken, ham sirloin shoulder frankfurter doner hamburger cupim jerky flank bresaola. Prosciutto landjaeger ribeye, swine filet mignon capicola pastrami.
 
 ### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+
+Ham cupim tri-tip short loin, pork belly leberkas chuck tenderloin ham hock spare ribs capicola kevin burgdoggen. Buffalo biltong brisket rump, ham filet mignon chicken picanha capicola ribeye corned beef salami. Swine venison sausage pastrami t-bone. Turducken porchetta drumstick, salami sirloin sausage biltong.
 
 ### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+
+Burgdoggen tail pork belly, pork loin bresaola chicken pig fatback landjaeger beef ribs frankfurter jerky. Pancetta jowl brisket kevin prosciutto capicola. Kevin pork loin brisket spare ribs beef corned beef ham. Boudin strip steak pig, meatball short loin drumstick ribeye.
 
 ### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+
+Pork chop beef ball tip pork loin. Ball tip t-bone boudin sausage sirloin turkey swine, fatback cow. Swine bacon pork loin, meatball picanha ham hock frankfurter hamburger rump cupim shankle biltong sirloin. 
 
 ### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+Rump t-bone doner jerky leberkas prosciutto. Ground round chuck filet mignon burgdoggen picanha spare ribs strip steak bacon jerky brisket shankle chicken. Filet mignon pork belly sausage swine. Sausage filet mignon chicken rump alcatra ham. Venison bresaola drumstick ham hock meatball, tri-tip strip steak tongue short ribs fatback turducken.
