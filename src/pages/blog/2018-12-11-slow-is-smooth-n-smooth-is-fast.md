@@ -10,6 +10,8 @@ description: >-
 tags:
   - '#Mindfulness'
 ---
-![](/img/img953233.jpg)
+![null](/img/img953233.jpg)
 
-![](/img/how-successful-people-stay-calm-graph1.jpg)
+![](/img/img_20181211_210316_01.gif)
+
+![null](/img/how-successful-people-stay-calm-graph1.jpg)
