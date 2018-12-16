@@ -6,4 +6,6 @@ description: '=-O '
 tags:
   - '#H20'
 ---
-![](/img/sweet-potato-chips-1.jpg)
+![null](/img/sweet-potato-chips-1.jpg)
+
+![](/img/img_20181216_184811_01.jpg)
