@@ -10,7 +10,7 @@ tags:
 
 ![](/img/giphy-1-.gif)
 
-![](/img/images-5-.png)
+![](/img/e0909ed3a15e9931224771b76975fe9b.jpg)
 
 ![](/img/breathing-gif-2.gif)
 
