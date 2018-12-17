@@ -12,6 +12,8 @@ tags:
 ---
 ![null](/img/img953233.jpg)
 
-![](/img/img_20181211_210316_01.gif)
+![](/img/img_20181217_072037_01.gif)
+
+![null](/img/img_20181211_210316_01.gif)
 
 ![null](/img/how-successful-people-stay-calm-graph1.jpg)
