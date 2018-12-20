@@ -6,4 +6,4 @@ description: QRC for free Brain&Health myBLsub.com
 tags:
   - '#mindfulness'
 ---
-![](/img/1220181804_burst01.jpg)
+![null](/img/1220181804_burst01.jpg)
