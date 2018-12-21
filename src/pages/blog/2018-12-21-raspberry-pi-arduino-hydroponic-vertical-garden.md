@@ -2,8 +2,7 @@
 templateKey: blog-post
 title: Raspberry Pi/Arduino Hydroponic Vertical Garden
 date: 2018-12-21T05:33:12.548Z
-description: >-
-  https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2014/10/22/raspberry-piarduino-hydroponic-vertical-garden-project
+description: 'https://github.com/topics/hydroponics?o=asc&s=updated'
 tags:
   - '#mindfulness #API'
 ---
