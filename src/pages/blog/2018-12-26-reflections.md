@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Reflections '
 date: 2018-12-26T14:30:37.413Z
-description: 'Really. '
+description: Really °¿°
 tags:
   - '#mindfulness'
 ---
