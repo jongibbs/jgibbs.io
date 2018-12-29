@@ -9,6 +9,7 @@ description: >+
   Capabilities and Technology Expo (JCTE).
 
 
+  https://www.shephardmedia.com/news/special-operations/special-operations-explores-mindfulness-training/
 
 tags:
   - '#Mindfulness'
