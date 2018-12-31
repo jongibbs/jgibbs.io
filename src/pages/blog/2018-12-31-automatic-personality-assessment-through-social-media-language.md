@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Automatic personality assessment through social media language.
-date: 2018-12-31T15:48:52.752Z
+date: 2018-12-30T16:02:00.000Z
 description: 'http://psycnet.apa.org/record/2014-45458-001'
 tags:
   - '#Mindfulness'
