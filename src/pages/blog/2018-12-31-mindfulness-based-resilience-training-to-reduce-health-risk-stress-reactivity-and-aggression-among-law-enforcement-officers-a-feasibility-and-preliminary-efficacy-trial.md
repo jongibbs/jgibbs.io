@@ -2,8 +2,7 @@
 templateKey: blog-post
 title: >-
   Mindfulness-based resilience training to reduce health risk, stress
-  reactivity, and aggression among law enforcement officers: A feasibility and
-  preliminary efficacy trial
+  reactivity, and aggression among law enforcement officers
 date: 2018-12-31T14:45:22.841Z
 description: 'https://www.sciencedirect.com/science/article/pii/S0165178117318747'
 tags:
