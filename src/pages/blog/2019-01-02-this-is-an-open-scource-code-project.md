@@ -14,6 +14,8 @@ tags:
 ---
 <https://imotions.com/eye-tracking/>
 
+<https://courses.ece.cornell.edu/ece5990/ECE5725_Spring2018_Projects/fy57_xz522_AutoTurret/index.html>
+
 <https://www.instructables.com/id/Mind-Controlled-Robotic-Arm/>
 
 <https://realsentrygun.com/contact.htm>
