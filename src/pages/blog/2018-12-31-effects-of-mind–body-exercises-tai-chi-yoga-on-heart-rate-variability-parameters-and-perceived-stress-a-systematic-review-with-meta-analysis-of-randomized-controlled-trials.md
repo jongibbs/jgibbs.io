@@ -2,8 +2,7 @@
 templateKey: blog-post
 title: >-
   Effects of Mind–Body Exercises (Tai Chi/Yoga) on Heart Rate Variability
-  Parameters and Perceived Stress: A Systematic Review with Meta-Analysis of
-  Randomized Controlled Trials
+  Parameters and Perceived Stress
 date: 2018-12-31T14:33:30.832Z
 description: 'https://www.mdpi.com/2077-0383/7/11/404/htm'
 tags:
