@@ -1,8 +1,6 @@
 ---
 templateKey: blog-post
-title: >-
-  First grade classroom-level adversity: Associations with teaching practices,
-  academic skills, and executive functioning.
+title: ' Associations with teaching practices, academic skills,executive functioning.'
 date: 2018-12-31T16:02:33.217Z
 description: >-
   http://psycnet.apa.org/search/display?id=b4b1c0b5-4282-fb7b-18e7-e5a066ec5e27&recordId=4&tab=PA&page=1&display=25&sort=PublicationYearMSSort%20desc,AuthorSort%20asc&sr=1
