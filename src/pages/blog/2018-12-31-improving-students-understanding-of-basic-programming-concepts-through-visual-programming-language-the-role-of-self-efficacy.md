@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: >-
   Improving students' understanding of basic programming concepts through visual
-  programming language: The role of self-efficacy
+  programming language:role of self-efficacy
 date: 2018-12-31T15:11:16.703Z
 description: 'https://www.sciencedirect.com/science/article/pii/S0747563218305739'
 tags:
