@@ -1,8 +1,12 @@
 ---
 templateKey: blog-post
-title: BCI UltraSonic Directional Speaker Turret
+title: >-
+  Hm....?! BCI UltraSonic Directional Speaker Turret W/ Ai AimBot
+  Capabilities..  
 date: 2019-01-03T11:43:22.645Z
-description: TBD...
+description: |-
+  TBD...
+  Bluetooth
 tags:
   - '#Mindfulness #Action_Potential'
 ---
