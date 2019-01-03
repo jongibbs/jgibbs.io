@@ -1,9 +1,6 @@
 ---
 templateKey: blog-post
-title: >-
-  Effects of mindfulness training programmes delivered by a self-directed mobile
-  app and by telephone compared with an education programme for survivors of
-  critical illness: a pilot randomised clinical trial
+title: Effects of mindfulness training programmes mobile app
 date: 2018-12-31T14:56:01.219Z
 description: 'https://thorax.bmj.com/content/74/1/33'
 tags:
