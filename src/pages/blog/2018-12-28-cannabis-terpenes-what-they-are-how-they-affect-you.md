@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Cannabis Terpenes: What They Are & How They Affect You'
-date: 2018-12-28T20:20:29.591Z
+date: 2010-04-20T19:20:00.000Z
 description: rpenes
 tags:
   - '#mindfulness #terpens'
