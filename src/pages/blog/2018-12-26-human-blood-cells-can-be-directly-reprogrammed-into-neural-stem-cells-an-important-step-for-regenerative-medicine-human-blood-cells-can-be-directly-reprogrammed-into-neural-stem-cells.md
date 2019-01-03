@@ -1,9 +1,6 @@
 ---
 templateKey: blog-post
-title: >-
-  Human blood cells can be directly reprogrammed into neural stem cells An
-  important step for regenerative medicine: Human blood cells can be directly
-  reprogrammed into neural stem cells
+title: Human blood cells can be directly reprogrammed into neural stem cells
 date: 2018-12-26T11:39:33.919Z
 description: >-
   Scientists from the German Cancer Research Center (DKFZ) and the stem cell
