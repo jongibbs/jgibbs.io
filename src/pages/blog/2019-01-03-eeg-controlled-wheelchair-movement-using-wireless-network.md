@@ -21,7 +21,7 @@ description: >-
   and process the signal using MATLAB platform. Then the control commands will
   be transmitted to the robot module to process. With this entire system, we can
   move a robot according to the human thoughts and it can be turned by blink
-  muscle contraction
+  muscle contraction.........
 
 
   murali.krishna526@gmail.com 
