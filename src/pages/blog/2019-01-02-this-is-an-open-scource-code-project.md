@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'This is an open-scource code project '
+title: 'This is an open-scource code project: BCI HUD '
 date: 2019-01-02T14:31:48.681Z
 description: >-
 
