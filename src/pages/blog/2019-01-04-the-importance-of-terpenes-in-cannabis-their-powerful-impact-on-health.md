@@ -5,7 +5,7 @@ date: 2019-01-04T20:18:01.535Z
 description: >-
   https://thefreshtoast.com/cannabis/the-importance-of-terpenes-in-cannabis-their-powerful-impact-on-health/
 tags:
-  - '#Mindfulness #Groovy #Action_Potential'
+  - '#Mindfulness #Groovy #Action_Potential #Terpens'
 ---
 Eucalyptus, pine, lemon, lavender, and cannabis all have very unique aromas. When was the last time you smelled these scents? Regardless of when it was, it’s important to understand that each aroma serves a special purpose. Specifically, they’re all potent molecules known as terpenoids or terpenes for short that are responsible for the scents of different plants, flowers, and trees. Not only do these terpenes contain powerful fragrances, they also contain various medicinal and therapeutic effects.
 
