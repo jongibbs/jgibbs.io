@@ -6,18 +6,10 @@ description: Thank you for helping me gather these resources
 tags:
   - '#resources'
 ---
- 
+<http://www.heartandsoulceo.com>
 
-http://www.heartandsoulceo.com
+<https://www.getleaf.co>
 
+<https://www.canopyboulder.com>
 
-
-https://www.getleaf.co
-
-
-
-https://www.canopyboulder.com
-
-
-
-https://tweedlefarms.com
+<https://tweedlefarms.com>
