@@ -7,3 +7,15 @@ tags:
   - '#'
 ---
 for (var adj of \[ 'happy', 'lucid','illuminated', 'tenacious' ]) {for (var noun of \[ 'eyes', 'smile', 'happy', 'D'])] { print('The ' + adj +  ' ' + noun); }}
+
+
+
+for ( let ad of adj){
+
+\    for ( let no of noun){
+
+\    console.log("the " + ad + " " + no)
+
+\    }
+
+}
