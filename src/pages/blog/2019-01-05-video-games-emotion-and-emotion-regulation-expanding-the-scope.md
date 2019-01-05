@@ -15,6 +15,6 @@ description: >-
   (2) What are the processes through which video games produce emotions? (3) How
   are video games used to regulate emotions?
 tags:
-  - '#mindfulness #action_potential #Neuro_Plasticity #Rewards #Grind_W/_It'
+  - '#Mindfulness #Action_Potential #Neuro_Plasticity #Rewards #Grind_W/_It'
 ---
 <https://www.tandfonline.com/doi/abs/10.1080/23808985.2018.1442239>
