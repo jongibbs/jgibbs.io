@@ -12,6 +12,9 @@ const Navbar = () => (
         <Link to="/" className="navbar-item">
             jgibbs.io
         </Link>
+        <Link className="navbar-item" to="/contact">
+          contact
+        </Link>
       </div>
       {/* <div className="navbar-start">
         <Link className="navbar-item" to="/about">
@@ -21,6 +24,7 @@ const Navbar = () => (
           Products
         </Link>
       </div> */}
+
       <div className="navbar-end">
         <a
           className="navbar-item"

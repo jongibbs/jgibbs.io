@@ -1,0 +1,39 @@
+
+.form-wrapper {
+    border-radius: 3px;
+    border-width: 2px;
+    border: grey;
+    display: flex;
+    flex-direction: column;
+    margin: 100px 25%;
+}
+
+textarea {
+    min-width: 300px;
+    min-height: 150px;
+}
+
+.textarea-label {
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+button {
+    padding: 15px 20px;
+    margin-top: 10px;
+    display: block;
+    background: #1976d2;
+    color: #fff;
+    border-style: solid;
+    border-radius: 2px;
+    font: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-width: 0px;
+    min-width: 300px;
+    min-height: 35px;
+    cursor: pointer;
+    letter-spacing: .2rem;
+}
